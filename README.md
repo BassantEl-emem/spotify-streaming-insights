@@ -3,18 +3,17 @@
 A dynamic **Tableau dashboard** designed to uncover trends and insights from Spotify’s global streaming data. The visualization highlights top artists, most played tracks, album types, and overall listening behavior.
 
 ---
+<h2 align="center">📸 Dashboard Preview</h2>
 
+<p align="center">
+  <img src="<img width="1366" height="633" alt="Screenshot 2025-07-21 062422" src="https://github.com/user-attachments/assets/69d98da5-7986-4307-b390-f8cf90106f42" />
+" alt="Spotify Dashboard" width="800"/>
+</p>
 
+<p align="center"><i>
+This dashboard showcases key metrics from Spotify's streaming data, including total streams, track counts, average song duration, and a deep dive into most-played songs and artists. It also visualizes the relationship between energy and tempo across tracks.
+</i></p>
 
-## 📸 Dashboard Preview
-
-![Spotify Dashboard]  
-
-<img width="1366" height="633" alt="Screenshot 2025-07-21 062422" src="https://github.com/user-attachments/assets/0a8c73f5-5879-4606-bd72-09ad10ca3583" />
-)
-
-> **Description:**  
-> This dashboard showcases key metrics from Spotify's streaming data, including total streams, track counts, average song duration, and a deep dive into most-played songs and artists. It also visualizes the relationship between energy and tempo across tracks.
 
 ---
 
