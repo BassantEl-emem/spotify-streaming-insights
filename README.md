@@ -9,7 +9,8 @@ A dynamic **Tableau dashboard** designed to uncover trends and insights from Spo
 ## 📸 Dashboard Preview
 
 ![Spotify Dashboard]  
-(<img width="1366" height="633" alt="Screenshot 2025-07-21 062422" src="https://github.com/user-attachments/assets/0a8c73f5-5879-4606-bd72-09ad10ca3583" />
+
+<img width="1366" height="633" alt="Screenshot 2025-07-21 062422" src="https://github.com/user-attachments/assets/0a8c73f5-5879-4606-bd72-09ad10ca3583" />
 )
 
 > **Description:**  
