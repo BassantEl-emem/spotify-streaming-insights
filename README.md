@@ -4,15 +4,12 @@ A dynamic **Tableau dashboard** designed to uncover trends and insights from Spo
 
 ---
 
-## 🌐 Live Dashboard
 
-👉 [**Click here to explore the interactive dashboard on Tableau Public**]([https://public.tableau.com/views/YOUR_DASHBOARD_LINK](https://public.tableau.com/views/finalspotify_17530680955210/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
-
----
 
 ## 📸 Dashboard Preview
 
-![Spotify Dashboard](<img width="1366" height="633" alt="Screenshot 2025-07-21 062422" src="https://github.com/user-attachments/assets/4d418a2d-ffe9-4086-9aab-693e1677efa7" />
+![Spotify Dashboard]  
+(<img width="1366" height="633" alt="Screenshot 2025-07-21 062422" src="https://github.com/user-attachments/assets/0a8c73f5-5879-4606-bd72-09ad10ca3583" />
 )
 
 > **Description:**  
@@ -48,4 +45,15 @@ A dynamic **Tableau dashboard** designed to uncover trends and insights from Spo
 - A large majority (72%) of Spotify tracks are part of full albums.
 - The most played songs include global hits like *Closer*, *Sunflower*, and *Happier*.
 - There is a noticeable trend between **energy levels** and **tempo** in popular music.
+
+
+---
+
+  ## 🌐 Interactive Dashboard
+
+Explore the full interactive report here:  
+🔗 **[Click here to view the live dashboard on Tableau Public](https://public.tableau.com/views/finalspotify_17530680955210/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+
+
+
   
