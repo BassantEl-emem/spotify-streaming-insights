@@ -15,29 +15,29 @@ This dashboard showcases key metrics from Spotify's streaming data, including to
 
 ---
 
-## 🔍 Key Highlights
+##  Key Highlights
 
-- ✅ **Total Streams:** 2,738 Billion  
-- ✅ **Tracks Analyzed:** 17,840  
-- ✅ **Artists Covered:** 2,079  
-- ✅ **Average Duration:** 3.7 minutes  
-- ✅ **Most Streamed Track:** “Closer” – 5.47B plays  
-- ✅ **Top Artist:** Post Malone – 15.3B plays  
-- ✅ **Album Type Distribution:**  
+-  **Total Streams:** 2,738 Billion  
+-  **Tracks Analyzed:** 17,840  
+-  **Artists Covered:** 2,079  
+-  **Average Duration:** 3.7 minutes  
+-  **Most Streamed Track:** “Closer” – 5.47B plays  
+-  **Top Artist:** Post Malone – 15.3B plays  
+-  **Album Type Distribution:**  
   - 72.04% Album  
   - 24.15% Single  
   - 3.80% Compilation
 
 ---
 
-## 🛠 Tools & Technologies
+##  Tools & Technologies
 
-- 🎨 **Tableau** – for interactive visualization  
-- 📊 **Excel** – for preprocessing and cleaning data  
+-  **Tableau** – for interactive visualization  
+-  **Excel** – for preprocessing and cleaning data  
 
 ---
 
-## 💡 Insights & Observations
+##  Insights & Observations
 
 - **Post Malone** leads as the top artist by total stream count.
 - A large majority (72%) of Spotify tracks are part of full albums.
@@ -47,7 +47,7 @@ This dashboard showcases key metrics from Spotify's streaming data, including to
 
 ---
 
-  ## 🌐 Interactive Dashboard
+  ##  Interactive Dashboard
 
 Explore the full interactive report here:  
 🔗 **[Click here to view the live dashboard on Tableau Public](https://public.tableau.com/views/finalspotify_17530680955210/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
